@@ -9,8 +9,4 @@ Integration Testing. This style of project is very useful as a teaching tool
 since changes are very visual since students are able to see the change on
 their own computer.
 
-Along with this project, we have included a basic activity that your student
-can perform with this project and our VCDEP system for teaching Continuous
-Delivery concepts.
-
 Author: Bhavyansh Mishra (BhavyanshM)
